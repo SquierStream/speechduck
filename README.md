@@ -7,13 +7,11 @@ This repository is the public support hub for the plugin: bug reports, questions
 ## Get SpeechDuck
 
 - **Full version** — available on the Elgato Marketplace *(link to be added once published)*.
+- **Free Demo** — 1 trigger, 1 target, English-only interface *(link to be added once published)*.
 
 ## Setup Guide
 
-1. Install SpeechDuck from the Elgato Marketplace and add the **Duck Toggle** action to any key.
-2. Open the key's settings (Property Inspector) and add at least one **Trigger** (a microphone, an output device, or an application) and one **Target** (what should be lowered while a trigger is active).
-3. Adjust **Attack / Sustain / Release** to taste, and drag directly on the live level meter to set each trigger's threshold.
-4. Press the key to arm the effect. The key doubles as a live level meter while armed.
+See the full [Setup Guide](SETUP_GUIDE.md) (with screenshots) for adding the action, configuring Triggers/Targets, tuning the envelope, and arming the key.
 
 ## Support
 
@@ -23,4 +21,4 @@ You can also reach us directly: **speechduck.support@gmail.com**.
 
 ## Privacy
 
-SpeechDuck reads audio session levels and process names from Windows Core Audio locally on your machine to detect triggers and apply ducking. It does not transmit any audio, process, or usage data off your computer.*
+SpeechDuck reads audio session levels and process names from Windows Core Audio locally on your machine to detect triggers and apply ducking. It does not transmit any audio, process, or usage data off your computer. See the full [Privacy Policy](PRIVACY.md) for details.

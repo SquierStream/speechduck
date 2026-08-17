@@ -19,7 +19,7 @@ This repository is the public support hub for the plugin: bug reports, questions
 
 Having a problem, a question, or an idea? Please [open an issue](../../issues/new/choose) and pick the template that fits — Bug report, Question / Support, or Feedback / Feature request.
 
-You can also reach us directly: **squier87@gmail.com**.
+You can also reach us directly: **speechduck.support@gmail.com**.
 
 ## Privacy
 

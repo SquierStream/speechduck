@@ -1,0 +1,31 @@
+name: ❓ Question / Support
+description: You're not sure how to set something up, or something is confusing.
+title: "[Question]: "
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ask away — check the [Setup Guide](../../blob/main/README.md#setup-guide) first in case it's already covered there.
+
+  - type: input
+    id: version
+    attributes:
+      label: SpeechDuck version
+      placeholder: "e.g. 1.12.1.0"
+    validations:
+      required: false
+
+  - type: textarea
+    id: goal
+    attributes:
+      label: What are you trying to do?
+    validations:
+      required: true
+
+  - type: textarea
+    id: tried
+    attributes:
+      label: What have you tried so far?
+    validations:
+      required: false

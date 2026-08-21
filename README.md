@@ -6,8 +6,8 @@ This repository is the public support hub for the plugin: bug reports, questions
 
 ## Get SpeechDuck
 
-- **Full version** — available on the Elgato Marketplace *(link to be added once published)*.
-- **Free Demo** — 1 trigger, 1 target, English-only interface *(link to be added once published)*.
+- **Full version** — [available on the Elgato Marketplace](https://marketplace.elgato.com/product/speechduck-ea695e8d-fe4e-4581-9319-ba1df369e49c).
+- **[Free Demo](https://github.com/SquierStream/streamdeck-speechduck/releases/tag/demo)** — 1 trigger, 1 target, English-only interface*.
 
 ## Setup Guide
 
